@@ -1,0 +1,1 @@
+var validator = require("email-validator");
