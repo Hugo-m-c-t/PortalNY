@@ -30,6 +30,8 @@
         background-color: #3A86FF;
         display: flex;
         flex-direction: column;
+        max-width: 100%;
+        overflow-x: hidden;
     }
 
     .portada{
@@ -412,6 +414,10 @@
 
         .listas {
             line-height: 3em;
+        }
+
+        .ganchoItem2{
+            margin-top: 0.5em;
         }
     }
 
