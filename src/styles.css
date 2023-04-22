@@ -352,9 +352,6 @@
         font-size: 2em;
     }
 
-    .listas{
-        width: 25em;
-    }
 
     .linkList{
         color:#FFFFFF;
@@ -418,6 +415,14 @@
 
         .ganchoItem2{
             margin-top: 0.5em;
+        }
+
+        .menuItem{
+            margin-bottom: 1em;
+        }
+
+        .linkList{
+            font-size: 2em;
         }
     }
 
