@@ -425,6 +425,10 @@
         .linkList{
             font-size: 2em;
         }
+
+        h1{
+            line-height: 1.5em;
+        }
     }
 
     @media (min-width: 641px) {
